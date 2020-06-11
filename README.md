@@ -52,13 +52,14 @@ Infeksi file akan beroperasi sebagai berikut:
 
 # Ide / Todo:
 
- -) Menggunakan RSA untuk mengenkripsi file yang dicadangkan
- -) Cross-infection (PHP->VBS/JS/BAT) || (PHP->CPP (source code infection)
- -) lebih banyak eksploitasi
- -) lebih cepat / lebih kecil
+*Menggunakan RSA untuk mengenkripsi file yang dicadangkan
+*Cross-infection (PHP->VBS/JS/BAT) || (PHP->CPP (source code infection)
+*lebih banyak eksploitasi
+*lebih cepat / lebih kecil
  
  # Author || Created By Ardean Bima Saputra
  
  Please make my ass high for subsribing my YouTube Channel : https://www.youtube.com/channel/UC1Hu0kEfFYR1075s6WPr91w
+ 
  My Portofolio : astrobox.epizy.com
   
